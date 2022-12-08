@@ -1,2 +1,23 @@
-
 /* Your CSS Code here. */
+
+* {
+    background-color: #f8fffe"";
+}
+
+.first {
+    background-color: green;
+    width: 10px;
+    height: 67px;
+    position: relative;
+    left: 20px;
+}
+
+blockquote {
+    position: relative;
+    bottom: 59px;
+    font-weight: bold;
+}
+
+label {
+    font-weight: bold;
+}
